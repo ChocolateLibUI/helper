@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+body>* {
+    display: flex;
+}
+
+
+
+body>div>* {
+    flex-basis: 1px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    min-width: 0px;
+    border: 1px solid black;
+}

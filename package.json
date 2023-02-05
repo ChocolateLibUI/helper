@@ -1,5 +1,5 @@
 {
-  "name": "@chocolatelibui/lib",
+  "name": "@chocolatelibui/helper",
   "version": "0.0.0",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
@@ -34,14 +34,11 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChocolateLibUI/lib.git"
+    "url": "git+https://github.com/ChocolateLibUI/helper.git"
   },
   "bugs": {
-    "url": "https://github.com/ChocolateLibUI/lib/issues"
+    "url": "https://github.com/ChocolateLibUI/helper/issues"
   },
-  "homepage": "https://github.com/ChocolateLibUI/lib#readme",
-  "dependencies": {
-    "@chocolatelib/math": "^0.0.1",
-    "@chocolatelib/value": "^0.0.3"
-  }
+  "homepage": "https://github.com/ChocolateLibUI/helper#readme",
+  "dependencies": {}
 }
